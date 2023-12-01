@@ -17,7 +17,7 @@ A simple Todo App built using React.js where users can add, edit, mark as comple
 ## Demo
 
 <p align="center">
-  <img height="400" width="auto" src="./public/Todo.png">
+  <img height="300" width="auto" src="./public/Todo.png">
 </p>
 
 ## Features
